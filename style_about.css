@@ -1,13 +1,52 @@
 body {
     font-family: sans-serif;
+    text-align: center;
+    background-color: burlywood;
 }
 
-li{
-   color: blue;
-   font-size: 25px;
-}
-
-li:hover{
+header{
     font-size: 50px;
+    margin: 0 auto;
+    max-width: 500px;
+    background-color: aquamarine;
+    margin-bottom: 25px;
 }
 
+.link-header{
+    text-decoration: none;
+}
+
+.nav-1{
+    margin-right: 90px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.nav-2{
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.nav-1:hover{
+   font-size: 50px;
+   color: black;
+}
+
+.nav-2:hover{
+   font-size: 50px;
+   color: black;
+}
+
+p:hover{
+   font-size: 25px;
+   color: chartreuse
+}
+
+h1:hover{
+   font-size: 50px;
+   color: chartreuse
+}
+
+img{
+    border-radius: 50px;
+}
