@@ -29,16 +29,24 @@ header{
 
 .nav-1:hover{
    font-size: 50px;
+   color: black;
 }
 
 .nav-2:hover{
    font-size: 50px;
+   color: black;
 }
 
 p:hover{
    font-size: 25px;
+   color: chartreuse
 }
 
 h1:hover{
    font-size: 50px;
+   color: chartreuse
+}
+
+img{
+    border-radius: 50px;
 }
